@@ -28,6 +28,7 @@
         </p>
       </div>
     </div>
+    <div class="divider small transparent"></div>
     <div class="experience">
       <div class="title">
         <div class="company">
