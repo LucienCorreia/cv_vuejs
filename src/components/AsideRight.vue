@@ -16,7 +16,7 @@
           <a href="https://www.github.com/LucienCorreia" target="_blank">Github</a>
         </li>
         <li class="item">
-          <a href="https://api.whatsapp.com/send?phone=05547996297387" target="_blank">
+          <a href="https://api.whatsapp.com/send?phone=05548991373581" target="_blank">
             WhatsApp
           </a>
         </li>
