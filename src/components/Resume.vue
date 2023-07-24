@@ -13,6 +13,24 @@
     <div class="experience">
       <div class="title">
         <div class="company">
+          Doutor-IE
+        </div>
+      </div>
+      <h3 class="role">
+        Fullstack Developer
+        <div class="date">
+          (maio 2023 - atualmente)
+        </div>
+      </h3>
+      <div class="description">
+        <p>
+          Atualmente atuo como desenvolvedor fullstack utilizando de Flutter e Laravel para desenvolver o aplicativo, sistemas internos e a APIs.
+        </p>
+      </div>
+    </div>
+    <div class="experience">
+      <div class="title">
+        <div class="company">
           Guide Investimentos
         </div>
       </div>
