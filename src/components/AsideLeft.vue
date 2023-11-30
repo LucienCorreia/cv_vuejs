@@ -7,7 +7,7 @@ const frameworks = [
 ];
 
 const knowledges = {
-  'Conteinerização': ['Docker', 'WSL'],
+  'Conteinerização': ['Docker', 'WSL', 'Kubernetes'],
   'Integração e Entrega Contínua': ['Fastlane', 'GitHub', 'Actions', 'Jenkins', 'CircleCI'],
   'Versionamento de Código': ['Git', 'GitFlow', 'Conventional Commits', 'Git Hooks', 'Semantic Versioning'],
   'Bando de Dados': ['MySQL', 'PostgreSQL', 'MongoDB', 'SQLite', 'MariaDB'],
@@ -20,7 +20,7 @@ const knowledges = {
     <aside>
       <header>
         <img src="../assets/profile_photo.jpg" alt="">
-        <h1>Lucien Risso Correia</h1>
+        <h1>Lucien Risso Correia (#OpenToWork)</h1>
       </header>
       <section>
         <ul>

@@ -6,7 +6,12 @@
   <div id="resume">
     <h1>Apresentação</h1>
     <div class="divider small transparent"></div>
-    <p>Prazer, me chamo Lucien e faço uns códigos por ai. Desde 2014 estudo programação de desde 2017 trabalho com isso. Por todo esse tempo já atuei em várias frentes, front, back, mobile, liderança e até devops. Abaixo você irá entender melhor as minhas experiências.</p>
+    <div class="resume-paragraph">
+      <p>Trabalho com desenvolvimento de software há seis anos, atuando em maior parte com Laravel e Flutter. Participei de projetos em âmbito nacional e internacional de diversos tamanhos. Com propósito de expandir as frentes estou começando com DevOps.</p>
+      <p>Das tecnologias que domino se destacam Laravel e Flutter, mas incluem também PHP, Dart, Angular, JavaScript, MySQL, Postgres e Docker. Valendo destaque também para algumas poucos utilizadas em projetos como Java, VueJS e Kotlin.</p>
+      <p>Os maiores projetos foram dos setores de Ecommerce, Financeiro e setor público, também atuando em projetos de sistemas internos de empresas, ERP, CRM e força de vendas. Com isso abrande grande experiência com integrações como Gateways de pagamentos, cotação de frete, sistemas financeiros e demais sistemas de terceiros.</p>
+      <p>Planejamento e desenvolvimento de soluções para larga escala e disponibilidade, utilizando estratégias de arquitetura e engenharia de software para tais finalidades, visando também a manutenção dessa aplicações ao decorrer do tempo.</p>
+    </div>
     <div class="divider transparent"></div>
     <h1>Experiências</h1>
     <div class="divider small transparent"></div>
@@ -19,7 +24,7 @@
       <h3 class="role">
         Fullstack Developer
         <div class="date">
-          (maio 2023 - atualmente)
+          (maio 2023 - novembro/2023)
         </div>
       </h3>
       <div class="description">
@@ -107,6 +112,11 @@
     font-size: 1.2rem;
     color: var(--color-tertiary);
     text-align: justify;
+  }
+
+  #resume .resume-paragraph p {
+    margin-top: 1rem;
+    text-indent: 2rem;
   }
 
   #resume .experience .company {
