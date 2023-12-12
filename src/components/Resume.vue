@@ -29,7 +29,7 @@
       </h3>
       <div class="description">
         <p>
-          Atualmente atuo como desenvolvedor fullstack utilizando de Flutter e Laravel para desenvolver o aplicativo, sistemas internos e a APIs.
+          Atuei como desenvolvedor fullstack utilizando de Flutter e Laravel para desenvolver o aplicativo, sistemas internos e a APIs.
         </p>
       </div>
     </div>

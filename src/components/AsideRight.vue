@@ -8,6 +8,7 @@
       <ul>
         <li class="title">
           <h1>Links e Contato</h1>
+          <p>Tem algum projeto que precisa sair do papel ou alguma demanda em projetos que já estão rodando? Entre em contato e vamos conversar sobre!</p>
         </li>
         <li class="item">
           <a href="https://www.linkedin.com/in/lucien-correia" target="_blank">Linkedin</a>
